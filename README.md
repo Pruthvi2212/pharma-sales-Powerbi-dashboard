@@ -19,4 +19,4 @@ This Power BI dashboard analyzes Pfizer's pharmaceutical sales across multiple t
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Pruthviraj Nalavade  
